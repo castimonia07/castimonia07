@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishabh Pandey</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | 📊 Data Analyst | 💻 DSA Practitioner | 🎓 B.Tech CSE-AIML Student @ VIT Bhopal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&width=500&lines=AI+%2F+ML+Enthusiast;Data+Analyst;DSA+Practitioner;B.Tech+CSE-AIML+Student+@+VIT+Bhopal" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=castimonia07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&animation=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castimonia07&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=castimonia07&style=plastic&animation=blink" alt="visitor badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=castimonia07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -97,17 +89,6 @@
 ### 📌 100 Days of DSA (C++)
 🔥 Solving core DSA problems in C++ daily – focus on Arrays, Stacks, Queues, and more.  
 🔗 [Repo Link](https://github.com/castimonia07/100-days-of-dsa)
-
----
-
-## 📌 Recommended Pinned Repos
-Pin these on your GitHub profile:
-- `100-days-of-dsa`
-- `tkinter-text-editor`
-- `sql-retail-analysis`
-- `gait-authentication`
-- `bollywood-bias-buster`
-- `nlp-experiments` *(optional placeholder if you want to explore more)*
 
 ---
 
