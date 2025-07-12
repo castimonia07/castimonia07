@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rishabh Pandey</h1>
 <h3 align="center">🚀 AI/ML Enthusiast | 📊 Data Analyst | 💻 DSA Practitioner | 🎓 B.Tech CSE-AIML </h3>
 
+<!-- 🔁 Typing Animation Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=I+code+everyday+💻;Passionate+about+ML+%26+Data+Science+📊;Solving+DSA+on+LeetCode+🔥;Building+cool+Python+apps+🚀" alt="Typing animation banner" />
+</p>
+
+<!-- 🔥 GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=castimonia07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
