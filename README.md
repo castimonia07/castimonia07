@@ -1,52 +1,105 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Rishabh Pandey</h1>
-<h3 align="center">🚀 AI-ML Enthusiast | 💻 B.Tech CSE-AIML Student | 🧠 Problem Solver</h3>
+<h3 align="center">🧠 Data Analyst | 🎓 B.Tech CSE-AIML Student @ VIT Bhopal | 💻 DSA & AI Enthusiast</h3>
 
----
-
-- 🔭 I’m currently working on: **AI Projects, DSA Practice, and NLP-based models**
-- 🌱 I’m currently learning: **BERT | SQL | Flask | NLP**
-- 👨‍🎓 I'm a **2nd-year B.Tech CSE-AIML student at VIT Bhopal**
-- 💬 Ask me about: **Python, C++, Machine Learning, GitHub Projects, or NLP**
-- 📫 How to reach me: **rishabh.official@email.com**
-- 🧠 Fun fact: **I was my school’s Head Boy and love combining creativity with code!**
-
----
-
-### 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhpandey&show_icons=true&theme=tokyonight" alt="rishabhpandey" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=castimonia07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🌟 Featured Projects
-*Coming soon...*
+## 📌 About Me
+
+🔍 I’m Rishabh Pandey, a 2nd-year B.Tech CSE-AIML student with a strong foundation in **data analysis** and **problem-solving**.  
+📊 I work with **Python, SQL, Power BI** to derive insights from real-world datasets.  
+💡 Passionate about **AI/ML, DSA, and Visual Analytics**, I'm constantly learning and experimenting with new technologies.
 
 ---
 
-### 📝 Blogs & Articles
-- [How I Built an AI Gait Authentication System](https://your-blog.com)
-- [Top 5 Projects Every CSE-AIML Student Should Build](https://your-blog.com)
+## 🔧 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🤝 Let's Connect!
-<p>
-  <a href="https://www.linkedin.com/in/your-profile/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat"></a>
-  <a href="mailto:rishabh.official@email.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat"></a>
-  <a href="https://github.com/rishabhpandey"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat"></a>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=castimonia07&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castimonia07&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=castimonia07" alt="visitor badge"/>
+</p>
+
+---
+
+## 💼 Projects
+
+### 📌 Text Editor with Tkinter (Python GUI)
+🖋️ A Catppuccin-themed rich-text editor with cut/copy/paste, font styling, and dark mode toggle.  
+🔗 [Repo Link](https://github.com/castimonia07/tkinter-text-editor)  
+<img src="https://your-gif-or-image-link-here" alt="Text Editor Preview" width="60%"/>
+
+---
+
+### 📌 Retail Sales SQL Analysis
+📊 Uncovered top-selling products and seasonal trends using advanced SQL queries.  
+🔗 [Repo Link](https://github.com/castimonia07/sql-retail-analysis)  
+<img src="https://your-screenshot-or-dashboard-link" alt="SQL Dashboard" width="60%"/>
+
+---
+
+### 📌 Bollywood Bias Buster (NLP App)
+💬 Detects gender bias in Bollywood movie scripts using NLP & sentiment analysis.  
+🔗 [Repo Link](https://github.com/castimonia07/bollywood-bias-buster)
+
+---
+
+### 📌 Gait Authentication System
+🚶 Contactless check-in system using smartphone gait authentication + ML.  
+🔗 [Repo Link](https://github.com/castimonia07/gait-authentication)
+
+---
+
+### 📌 100 Days of DSA (C++)
+🔥 Solving core DSA problems in C++ daily – focus on Arrays, Stacks, Queues, and more.  
+🔗 [Repo Link](https://github.com/castimonia07/100-days-of-dsa)
+
+---
+
+## 📌 Recommended Pinned Repos
+Pin these on your GitHub profile:
+- `100-days-of-dsa`
+- `tkinter-text-editor`
+- `sql-retail-analysis`
+- `gait-authentication`
+- `bollywood-bias-buster`
+- `nlp-experiments` *(optional placeholder if you want to explore more)*
+
+---
+
+## 📝 Blogs & Articles
+
+- 📌 [5 SQL Projects Every Analyst Should Build](https://your-blog-link)
+- 📌 [Building a Gait Recognition AI](https://your-blog-link)
+- 📌 [Top DSA Questions on LeetCode for Interviews](https://your-blog-link)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:diliprishabhpandey@gmail.com"><img src="https://img.shields.io/badge/Gmail-diliprishabhpandey@gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rishabh-pandey-186787196/"><img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Pandey-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/castimonia07"><img src="https://img.shields.io/badge/GitHub-castimonia07-black?style=flat&logo=github"></a>
 </p>
 
 ---
@@ -54,19 +107,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-
-
-<!--
-**castimonia07/castimonia07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
