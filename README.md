@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Pandey</h1>
-<h3 align="center">🧠 Data Analyst | 🎓 B.Tech CSE-AIML Student @ VIT Bhopal | 💻 DSA & AI Enthusiast</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | 📊 Data Analyst | 💻 DSA Practitioner | 🎓 B.Tech CSE-AIML Student @ VIT Bhopal</h3>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=castimonia07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -9,9 +10,10 @@
 
 ## 📌 About Me
 
-🔍 I’m Rishabh Pandey, a 2nd-year B.Tech CSE-AIML student with a strong foundation in **data analysis** and **problem-solving**.  
-📊 I work with **Python, SQL, Power BI** to derive insights from real-world datasets.  
-💡 Passionate about **AI/ML, DSA, and Visual Analytics**, I'm constantly learning and experimenting with new technologies.
+🔍 I’m Rishabh Pandey, passionate about **data analysis**, **machine learning**, and **problem-solving**.  
+💻 I enjoy working with **Python, SQL**, and real-world datasets to build intelligent solutions and extract actionable insights.  
+📘 I'm actively sharpening my skills in **Data Structures and Algorithms (DSA)** using C++ and solving challenges on platforms like LeetCode.  
+🚀 My interests span across **AI/ML model development**, **exploratory data analysis**, and applying ML techniques to uncover meaningful patterns in data.
 
 ---
 
