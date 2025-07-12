@@ -58,6 +58,17 @@
 
 ---
 
+---
+
+## 📊 GitHub Contribution Insights
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=castimonia07&bg_color=0d1117&color=00e7ff&line=00ffb3&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+<!-- OR Replace above with GitHub Skyline preview -->
+
+
 ## 💼 Projects
 
 ### 📌 Text Editor with Tkinter (Python GUI)
