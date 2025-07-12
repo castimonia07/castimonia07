@@ -3,8 +3,9 @@
 
 <!-- 🔁 Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=I+code+everyday+💻;Passionate+about+ML+%26+Data+Science+📊;Solving+DSA+on+LeetCode+🔥;Building+cool+Python+apps+🚀" alt="Typing animation banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=I+code+everyday+💻;Passionate+about+ML+%26+Data+Science+📊;Solving+DSA+on+LeetCode+🔥;Building+cool+Python+apps+🚀" alt="Typing animation banner" />
 </p>
+
 
 <!-- 🔥 GitHub Streak -->
 <p align="center">
@@ -85,14 +86,14 @@
 ### 📌 Text Editor with Tkinter (Python GUI)  
 🖋️ A Catppuccin-themed rich-text editor with cut/copy/paste, font styling, and dark mode toggle.  
 🔗 [Repo Link](https://github.com/castimonia07/tkinter-text-editor)  
-<img src="https://your-gif-or-image-link-here" alt="Text Editor Preview" width="60%"/>
+<!--<img src="https://your-gif-or-image-link-here" alt="Text Editor Preview" width="60%"/>-->
 
 ---
 
 ### 📌 Retail Sales SQL Analysis  
 📊 Uncovered top-selling products and seasonal trends using advanced SQL queries.  
 🔗 [Repo Link](https://github.com/castimonia07/sql-retail-analysis)  
-<img src="https://your-screenshot-or-dashboard-link" alt="SQL Dashboard" width="60%"/>
+<!--<img src="https://your-screenshot-or-dashboard-link" alt="SQL Dashboard" width="60%"/>-->
 
 ---
 
