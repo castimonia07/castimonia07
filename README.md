@@ -82,46 +82,41 @@
 
 ## 💼 Projects
 
-### 📌 Text Editor with Tkinter (Python GUI)
+### 📌 Text Editor with Tkinter (Python GUI)  
 🖋️ A Catppuccin-themed rich-text editor with cut/copy/paste, font styling, and dark mode toggle.  
 🔗 [Repo Link](https://github.com/castimonia07/tkinter-text-editor)  
-<!--<img src="https://your-gif-or-image-link-here" alt="Text Editor Preview" width="60%"/> -->
+<img src="https://your-gif-or-image-link-here" alt="Text Editor Preview" width="60%"/>
 
 ---
 
-### 📌 Retail Sales SQL Analysis
+### 📌 Retail Sales SQL Analysis  
 📊 Uncovered top-selling products and seasonal trends using advanced SQL queries.  
 🔗 [Repo Link](https://github.com/castimonia07/sql-retail-analysis)  
-<!--<img src="https://your-screenshot-or-dashboard-link" alt="SQL Dashboard" width="60%"/> -->
+<img src="https://your-screenshot-or-dashboard-link" alt="SQL Dashboard" width="60%"/>
 
 ---
 
-### 📌 Bollywood Bias Buster (NLP App)
+### 📌 Bollywood Bias Buster (NLP App)  
 💬 Detects gender bias in Bollywood movie scripts using NLP & sentiment analysis.  
 🔗 [Repo Link](https://github.com/castimonia07/bollywood-bias-buster)
 
 ---
 
-### 📌 Gait Authentication System
-🚶 Contactless check-in system using smartphone gait authentication + ML.  
-🔗 [Repo Link](https://github.com/castimonia07/gait-authentication)
+### 📌 DSA Problem Solving Practice  
+🧠 Solving a wide range of Data Structures & Algorithms problems using C++.  
+📌 Topics include Arrays, Stacks, Queues, Two Pointers, Sliding Window, and more.  
+🔗 [Repo Link](https://github.com/castimonia07/Leetcode-Problems)
 
 ---
 
-### 📌 100 Days of DSA (C++)
-🔥 Solving core DSA problems in C++ daily – focus on Arrays, Stacks, Queues, and more.  
-🔗 [Repo Link](https://github.com/castimonia07/100-days-of-dsa)
-
----
-
-## 📝 Blogs & Articles
+<!--## 📝 Blogs & Articles
 
 - 📌 [5 SQL Projects Every Analyst Should Build](https://your-blog-link)
 - 📌 [Building a Gait Recognition AI](https://your-blog-link)
 - 📌 [Top DSA Questions on LeetCode for Interviews](https://your-blog-link)
 
 ---
-
+-->
 ## 🌐 Connect With Me
 
 <p align="left">
