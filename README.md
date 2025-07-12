@@ -1,4 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rishabh Pandey</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&width=500&lines=AI+%2F+ML+Enthusiast;Data+Analyst;DSA+Practitioner;B.Tech+CSE-AIML+Student" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=castimonia07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&animation=true" width="50%" />
+</p>
+
+<p>
+  <svg viewBox="0 0 1440 320" style="width:100%;height:80px;">
+    <path fill="#1e1e2f" fill-opacity="1" d="M0,224L48,213.3C96,203,192,181,288,186.7C384,192,480,224,576,234.7C672,245,768,235,864,234.7C960,235,1056,245,1152,234.7C1248,224,1344,192,1392,176L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+  </svg>
+</p>
 <h3 align="center">🚀 AI/ML Enthusiast | 📊 Data Analyst | 💻 DSA Practitioner | 🎓 B.Tech CSE-AIML Student @ VIT Bhopal</h3>
 
 
