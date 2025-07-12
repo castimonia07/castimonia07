@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Pandey</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | 📊 Data Analyst | 💻 DSA Practitioner | 🎓 B.Tech CSE-AIML Student @ VIT Bhopal</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | 📊 Data Analyst | 💻 DSA Practitioner | 🎓 B.Tech CSE-AIML </h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=castimonia07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -58,18 +58,18 @@
 
 ---
 
-## 📊 GitHub Contribution Insights
+<!--## 📊 GitHub Contribution Insights
 
 ### 🏙️ GitHub Skyline
 <p align="center">
   <img src="https://raw.githubusercontent.com/castimonia07/visuals/gh-skyline.gif" width="70%" alt="GitHub Skyline">
 </p>
 
-<!-- or -->
+<!-- or 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/castimonia07/metrics/main/github-metrics.svg" width="100%" alt="GitHub Metrics">
-</p>
+</p> -->
 
 
 
@@ -78,14 +78,14 @@
 ### 📌 Text Editor with Tkinter (Python GUI)
 🖋️ A Catppuccin-themed rich-text editor with cut/copy/paste, font styling, and dark mode toggle.  
 🔗 [Repo Link](https://github.com/castimonia07/tkinter-text-editor)  
-<img src="https://your-gif-or-image-link-here" alt="Text Editor Preview" width="60%"/>
+<!--<img src="https://your-gif-or-image-link-here" alt="Text Editor Preview" width="60%"/> -->
 
 ---
 
 ### 📌 Retail Sales SQL Analysis
 📊 Uncovered top-selling products and seasonal trends using advanced SQL queries.  
 🔗 [Repo Link](https://github.com/castimonia07/sql-retail-analysis)  
-<img src="https://your-screenshot-or-dashboard-link" alt="SQL Dashboard" width="60%"/>
+<!--<img src="https://your-screenshot-or-dashboard-link" alt="SQL Dashboard" width="60%"/> -->
 
 ---
 
