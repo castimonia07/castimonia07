@@ -58,15 +58,19 @@
 
 ---
 
----
-
 ## 📊 GitHub Contribution Insights
 
+### 🏙️ GitHub Skyline
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=castimonia07&bg_color=0d1117&color=00e7ff&line=00ffb3&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://raw.githubusercontent.com/castimonia07/visuals/gh-skyline.gif" width="70%" alt="GitHub Skyline">
 </p>
 
-<!-- OR Replace above with GitHub Skyline preview -->
+<!-- or -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/castimonia07/metrics/main/github-metrics.svg" width="100%" alt="GitHub Metrics">
+</p>
+
 
 
 ## 💼 Projects
