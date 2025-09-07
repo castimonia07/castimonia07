@@ -66,6 +66,13 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Void-Anvesha&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+
 <!--## 📊 GitHub Contribution Insights
 
 ### 🏙️ GitHub Skyline
